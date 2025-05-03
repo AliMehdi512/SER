@@ -1,0 +1,7 @@
+streamlit
+numpy
+librosa
+keras
+tensorflow
+pydub
+simpleaudio
